@@ -1,0 +1,15 @@
+{
+  "name": "edwinbot",
+  "version": "1.0.0",
+  "description": "monster hunter bot",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eddi",
+  "license": "ISC"
+}
